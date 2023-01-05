@@ -1,0 +1,12 @@
+input {
+  border: none;
+  border-bottom: black solid 2px;
+  width: 350px;
+  padding: 3px;
+}
+input:focus {
+  outline: none;
+  background-color: rgba(86, 173, 169, 0.2);
+  transform: scale(1.1);
+}
+/*# sourceMappingURL=input.css.map */

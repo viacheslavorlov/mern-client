@@ -1,0 +1,30 @@
+.registration {
+  display: flex;
+  flex-direction: column;
+  width: 55vw;
+  align-items: center;
+  background-color: white;
+  border-radius: 20px;
+  padding: 30px;
+  align-self: center;
+  margin-top: 20vh;
+}
+.registration__header {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+.registration__button {
+  background-color: #56ada9;
+  border: black solid 1px;
+  padding: 5px;
+  border-radius: 5px;
+  width: 15vw;
+}
+.registration__login:hover {
+  cursor: pointer;
+}
+.registration input {
+  margin: 5px 20px;
+  width: 25vw;
+}
+/*# sourceMappingURL=registration.css.map */
